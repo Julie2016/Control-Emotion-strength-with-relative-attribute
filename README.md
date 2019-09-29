@@ -1,2 +1,2 @@
 # Control-Emotion-strength-with-relative-attribute
-Controlling emotion strength with relative attribute for end-to-end speech synthesis
+This repository contains audio samples accompanying publications related to the paper for ASRU2019.
